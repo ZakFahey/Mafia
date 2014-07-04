@@ -1,0 +1,29 @@
+C:\Users\Zak\AppData\Local\Temporary Projects\Mafia\obj\Release\Mafia.csprojResolveAssemblyReference.cache
+C:\Users\Zak\AppData\Local\Temporary Projects\Mafia\bin\Release\Mafia.dll
+C:\Users\Zak\AppData\Local\Temporary Projects\Mafia\bin\Release\Mafia.pdb
+C:\Users\Zak\AppData\Local\Temporary Projects\Mafia\bin\Release\TerrariaServer.exe
+C:\Users\Zak\AppData\Local\Temporary Projects\Mafia\bin\Release\TShockAPI.dll
+C:\Users\Zak\AppData\Local\Temporary Projects\Mafia\bin\Release\MySql.Data.dll
+C:\Users\Zak\AppData\Local\Temporary Projects\Mafia\bin\Release\HttpServer.dll
+C:\Users\Zak\AppData\Local\Temporary Projects\Mafia\bin\Release\Newtonsoft.Json.dll
+C:\Users\Zak\AppData\Local\Temporary Projects\Mafia\bin\Release\Mono.Data.Sqlite.dll
+C:\Users\Zak\AppData\Local\Temporary Projects\Mafia\obj\Release\Mafia.dll
+C:\Users\Zak\AppData\Local\Temporary Projects\Mafia\obj\Release\Mafia.pdb
+C:\Users\Zak\Desktop\Mafia.dll
+C:\Users\Zak\Desktop\Mafia.pdb
+C:\Users\Zak\Desktop\build\Mafia.dll
+C:\Users\Zak\Desktop\build\Mafia.pdb
+E:\Desktop\build\Mafia.dll
+E:\Desktop\build\Mafia.pdb
+E:\TShock mods\Mafia\Mafia\obj\Release\Mafia.csprojResolveAssemblyReference.cache
+E:\TShock mods\Mafia\Mafia\obj\Release\Mafia.dll
+E:\TShock mods\Mafia\Mafia\obj\Release\Mafia.pdb
+E:\Dropbox\TShock mods\Mafia\Mafia\obj\Release\Mafia.csprojResolveAssemblyReference.cache
+E:\Dropbox\TShock mods\Mafia\Mafia\obj\Release\Mafia.dll
+E:\Dropbox\TShock mods\Mafia\Mafia\obj\Release\Mafia.pdb
+E:\Dropbox\TShock mods\Mafia\obj\Release\Mafia.csprojResolveAssemblyReference.cache
+E:\Dropbox\TShock mods\Mafia\obj\Release\Mafia.dll
+E:\Dropbox\TShock mods\Mafia\obj\Release\Mafia.pdb
+E:\TShock mods\Mafia\obj\Release\Mafia.csprojResolveAssemblyReference.cache
+E:\TShock mods\Mafia\obj\Release\Mafia.dll
+E:\TShock mods\Mafia\obj\Release\Mafia.pdb
