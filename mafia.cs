@@ -83,7 +83,7 @@ namespace mafia {
             ServerApi.Hooks.NetGreetPlayer.Register(this, OnGreetPlayer);
         }
         public override Version Version {
-            get { return new Version("1.0"); }
+            get { return new Version("1.0.1"); }
         }
         public override string Name {
             get { return "Mafia"; }
