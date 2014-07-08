@@ -28,45 +28,44 @@ namespace mafia {
         Timer forcePVP = new Timer();
 
         public mafia(Main game) : base(game) {
-            Order -= 1;
         }
         public override void Initialize() {
-            Commands.ChatCommands.Add(new Command("mafia", mafiaStart, "mafiastart") {//CHANGE
+            Commands.ChatCommands.Add(new Command("mafia.admin.start", mafiaStart, "mafiastart") {
                 HelpText = "Start the game 'Mafia.'"
             });
-            Commands.ChatCommands.Add(new Command("mafia", mafiaStop, "mafiastop")
+            Commands.ChatCommands.Add(new Command("mafia.admin.start", mafiaStop, "mafiastop")
             {
                 HelpText = "Ends the game 'Mafia.'"
             });
-            Commands.ChatCommands.Add(new Command("playmafia", anonChat, "anon", "an")
+            Commands.ChatCommands.Add(new Command("mafia.guest.play", anonChat, "anon", "an")
             {
                 HelpText = "Chat as whoever you are anonymously."
             });
-            Commands.ChatCommands.Add(new Command("playmafia", mafiaWho, "mafiawho", "whomafia")
+            Commands.ChatCommands.Add(new Command("mafia.guest.play", mafiaWho, "mafiawho", "whomafia")
             {
                 HelpText = "Says who is who."
             });
-            Commands.ChatCommands.Add(new Command("playmafia", mafKill, "mkill")
+            Commands.ChatCommands.Add(new Command("mafia.guest.play", mafKill, "mkill")
             {
                 HelpText = "Kill a player."
             });
-            Commands.ChatCommands.Add(new Command("playmafia", mafAccuse, "maccuse")
+            Commands.ChatCommands.Add(new Command("mafia.guest.play", mafAccuse, "maccuse")
             {
                 HelpText = "Accuse a player."
             });
-            Commands.ChatCommands.Add(new Command("playmafia", mafTP, "mtp")
+            Commands.ChatCommands.Add(new Command("mafia.guest.play", mafTP, "mtp")
             {
                 HelpText = "Teleport to a player."
             });
-            Commands.ChatCommands.Add(new Command("playmafia", mafSave, "msave")
+            Commands.ChatCommands.Add(new Command("mafia.guest.play", mafSave, "msave")
             {
                 HelpText = "Saves a player."
             });
-            Commands.ChatCommands.Add(new Command("playmafia", mafCancel, "mcancel")
+            Commands.ChatCommands.Add(new Command("mafia.guest.play", mafCancel, "mcancel")
             {
                 HelpText = "Cancels a selection."
             });
-            Commands.ChatCommands.Add(new Command("playmafia", whosAlive, "whosalive")
+            Commands.ChatCommands.Add(new Command("mafia.guest.play", whosAlive, "whosalive")
             {
                 HelpText = "Cancels a selection."
             });
